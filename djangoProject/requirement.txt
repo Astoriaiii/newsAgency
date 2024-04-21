@@ -1,0 +1,9 @@
+asgiref @ file:///Users/ec2-user/ci_py311/asgiref_1678390266874/work
+certifi @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_dfez5lkpj0/croot/certifi_1707229180975/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+Django @ file:///Users/ec2-user/ci_py311/django_1678411010555/work
+djangorestframework==3.15.1
+idna @ file:///Users/ec2-user/ci_py311/idna_1678315819133/work
+requests @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4fp_3tflo8/croot/requests_1707355574897/work
+sqlparse @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_cb77ukgrpu/croot/sqlparse_1690901947630/work
+urllib3 @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_11kfyehh23/croot/urllib3_1700840489585/work
